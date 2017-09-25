@@ -1,6 +1,6 @@
 {
   "name": "mjs-example",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ES module (.mjs) that can be used natively from node 8.5.0+, without transpilers",
   "main": "example.mjs",
   "repository": {
@@ -14,8 +14,7 @@
   "scripts": {
     "prepare": "echo \"Nothing to prepare! Just import {hello} from 'mjs-example'\""
   },
-  "devDependencies": {
-  },
+  "devDependencies": {},
   "keywords": [
     "ES",
     "native",
