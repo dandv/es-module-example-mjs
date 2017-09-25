@@ -11,9 +11,8 @@ To publish a native ES module, simply define `main` [in `package.json`](https://
 {
   "name": "mjs-example",
   "version": "1.0.0",
-  "description": "ES module (.mjs) that can be used natively from node 8.5.0+, without transpilers",
-  "main": "example.mjs",
-  ...
+  "description": "ES native module (.mjs) - requires node 8.5.0+",
+  "main": "example.mjs"
 }
 ```
 
