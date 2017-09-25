@@ -1,11 +1,11 @@
 {
   "name": "mjs-example",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "ES module (.mjs) that can be used natively from node 8.5.0+, without transpilers",
   "main": "example.mjs",
   "repository": {
     "type": "git",
-    "url": "https://github.com/dandv/mjs-example.git"
+    "url": "https://github.com/dandv/es-module-example-mjs.git"
   },
   "author": {
     "name": "Dan Dascalescu",
